@@ -90,3 +90,5 @@ ENV/
 
 # datasets
 MNIST_data
+input_data
+logs
